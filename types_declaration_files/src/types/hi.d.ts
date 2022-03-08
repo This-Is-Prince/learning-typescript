@@ -1,3 +1,0 @@
-interface P {
-  name: string;
-}
