@@ -1,0 +1,4 @@
+{
+  "files": ["./intro.ts"],
+  "compilerOptions": { "strictNullChecks": true }
+}
